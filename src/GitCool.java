@@ -6,4 +6,8 @@ public class GitCool {
     // We have added our Github account under intellij
     //make sure to click apply and click on to save
 
+    //we have successfully shared project under our github account
+    //it combines the 3 actions
+    //create remote repository under your account
+
 }
